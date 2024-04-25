@@ -1,1 +1,2 @@
-# vstodd.github.io
+# veronika-todd.com
+# personal_site
